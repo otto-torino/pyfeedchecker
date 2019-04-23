@@ -2,3 +2,5 @@
 .pyfeedchecker.log
 json
 tags
+sitelist.hjson
+out.hjson
